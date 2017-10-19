@@ -1,0 +1,36 @@
+.Contenedor{
+	background: #FA8072;
+	border: 1px;
+	overflow:hidden;	
+}
+
+h1{
+	text-align: center;
+
+}
+li{
+	float:left;
+	height:40px;
+	margin:20px ;
+}
+
+p{
+	text-align: center	
+}
+.img_1{
+	float: right;
+	height:400px;
+	width:400px;
+	margin: 0em 3em;
+	border: 2px solid white;
+}
+.img_2{
+	float: left;
+	height:400px;
+	width:400px;
+	margin: 0em 3em;
+	border: 2px solid black;
+}
+.span{
+	font-style: italic;
+}
